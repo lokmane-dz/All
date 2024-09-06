@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1065716837713",
+    "project_id": "mylearning-d903b",
+    "storage_bucket": "mylearning-d903b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065716837713:android:630f892a8b6de35dbeb770",
+        "android_client_info": {
+          "package_name": "me.lokmvne.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065716837713-js0err0blsf7gvnil1s9kntnqfs7178v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.lokmvne.learning",
+            "certificate_hash": "0b19e6cd88c13c4974b84dc13863ffe8c4de8c82"
+          }
+        },
+        {
+          "client_id": "1065716837713-uqel3np2mobn50ar36cv8171bk7ek16c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApeFF1-tCZ4o7LIdT67SK1lnpbtNNZbMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065716837713-uqel3np2mobn50ar36cv8171bk7ek16c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XMLApp1</string>
+    <string name="hello_world">Hello world</string>
+    <string name="button">Button</string>
+</resources>

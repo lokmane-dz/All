@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "410999059357",
+    "project_id": "mylearning-73b69",
+    "storage_bucket": "mylearning-73b69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410999059357:android:7ecdfa22b9ae56bf357574",
+        "android_client_info": {
+          "package_name": "me.lokmvne.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410999059357-778hii6vjp2eskian139j5o6gkr9kn44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.lokmvne.firebaseauth",
+            "certificate_hash": "0b19e6cd88c13c4974b84dc13863ffe8c4de8c82"
+          }
+        },
+        {
+          "client_id": "410999059357-migblq0lsj89f544fe9rfe5mjofp5il3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDunSgAERz4GLLZS-JqyM3Ice6pP--kbgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410999059357-migblq0lsj89f544fe9rfe5mjofp5il3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410999059357:android:4fb6ec553e972490357574",
+        "android_client_info": {
+          "package_name": "me.lokmvne.mylearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410999059357-migblq0lsj89f544fe9rfe5mjofp5il3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDunSgAERz4GLLZS-JqyM3Ice6pP--kbgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410999059357-migblq0lsj89f544fe9rfe5mjofp5il3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
